@@ -1,0 +1,21 @@
+{
+    "name": "IPL Channels data in json",
+    "channels": [
+        {
+            "name": "Willow Sports",
+            "id": "willow-sports",
+            "url": "https://shwe7ank-7.github.io/L/Willow-sports.html"
+        },
+        {
+            "name": "Sports 18",
+            "id": "sp-18",
+            "url": "https://binge-player.pages.dev/?url=https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740819336~acl=%2f*~id=65763e52500eecca760c9c2627121e1f~data=hdntl~hmac=63ea1b8bcd5623cbd2ed62d3c878d5a35d25c4bcfa2b6df1ae6bb483a499d7b7/index.m3u8"
+        },
+        {
+            "name": "Prime Video (English)",
+            "id": "prime",
+            "url": "https://shwe7ank-7.github.io/L/Prime.html"
+        }
+      ]
+}
+      
