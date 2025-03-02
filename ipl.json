@@ -1,25 +1,559 @@
 {
     "name": "IPL Channels data in json",
-    "channels": [
-        {
-            "name": "Willow Sports",
-            "id": "willow-sports",
-            "mpd": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-            "keyID": "1779c27b9d077a3ba0c9cc1bb9a94b9f",
-            "key": "cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
-        },
-        {
-            "name": "Sports 18",
-            "id": "sp-18",
-            "m3u8": "https://jcevents.jiocinema.com/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1740819336~acl=%2f*~id=65763e52500eecca760c9c2627121e1f~data=hdntl~hmac=63ea1b8bcd5623cbd2ed62d3c878d5a35d25c4bcfa2b6df1ae6bb483a499d7b7/index.m3u8"
-        },
-        {
-            "name": "Prime Video (English)",
-            "id": "prime",
-            "mpd": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/cw64xbclda/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd",
-            "keyID": "7aa124253d518f18740c5bd932d581a3",
-            "key": "1819c82fc27225f5e79ae189ddece0ea"
-        }
-      ]
+    "channels": "willow-sports, astro, jc-18";
+    "matches": [
+    {
+        "match_no": "1",
+        "date": "02-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "2",
+        "date": "03-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "3",
+        "date": "04-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "4",
+        "date": "05-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "5",
+        "date": "06-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "6",
+        "date": "07-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "7",
+        "date": "08-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "8",
+        "date": "09-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "9",
+        "date": "10-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "10",
+        "date": "11-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "11",
+        "date": "12-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "12",
+        "date": "13-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "13",
+        "date": "14-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "14",
+        "date": "15-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "15",
+        "date": "16-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "16",
+        "date": "17-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "17",
+        "date": "18-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "18",
+        "date": "19-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "19",
+        "date": "20-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "20",
+        "date": "21-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "21",
+        "date": "22-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "22",
+        "date": "23-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "23",
+        "date": "24-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "24",
+        "date": "25-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "25",
+        "date": "26-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "26",
+        "date": "27-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "27",
+        "date": "28-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "28",
+        "date": "29-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "29",
+        "date": "30-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "30",
+        "date": "31-03-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "31",
+        "date": "01-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "32",
+        "date": "02-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "33",
+        "date": "03-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "34",
+        "date": "04-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "35",
+        "date": "05-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "36",
+        "date": "06-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "37",
+        "date": "07-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "38",
+        "date": "08-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "39",
+        "date": "09-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "40",
+        "date": "10-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "41",
+        "date": "11-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "42",
+        "date": "12-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "43",
+        "date": "13-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "44",
+        "date": "14-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "45",
+        "date": "15-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "46",
+        "date": "16-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "47",
+        "date": "17-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "48",
+        "date": "18-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "49",
+        "date": "19-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "50",
+        "date": "20-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "51",
+        "date": "21-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "52",
+        "date": "22-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "53",
+        "date": "23-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "54",
+        "date": "24-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "55",
+        "date": "25-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "56",
+        "date": "26-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "57",
+        "date": "27-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "58",
+        "date": "28-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "59",
+        "date": "29-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "60",
+        "date": "30-04-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "61",
+        "date": "01-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "62",
+        "date": "02-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "63",
+        "date": "03-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "64",
+        "date": "04-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "65",
+        "date": "05-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "66",
+        "date": "06-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "67",
+        "date": "07-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "68",
+        "date": "08-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "69",
+        "date": "09-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "70",
+        "date": "10-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "71",
+        "date": "11-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "72",
+        "date": "12-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "73",
+        "date": "13-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "74",
+        "date": "14-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "75",
+        "date": "15-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "76",
+        "date": "16-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "77",
+        "date": "17-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "78",
+        "date": "18-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "79",
+        "date": "19-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "80",
+        "date": "20-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "81",
+        "date": "21-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "82",
+        "date": "22-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "83",
+        "date": "23-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "84",
+        "date": "24-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "85",
+        "date": "25-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "86",
+        "date": "26-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "87",
+        "date": "27-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "88",
+        "date": "28-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "89",
+        "date": "29-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "90",
+        "date": "30-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "91",
+        "date": "31-05-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    },
+    {
+        "match_no": "92",
+        "date": "01-06-2025",
+        "start_time": "00:00",
+        "end_time": "24:00"
+    }
+    ]
 }
       
