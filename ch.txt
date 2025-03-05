@@ -1,2 +1,2 @@
 #ch name="Willow Sports" id="willow-sports" url="https://odfinity.github.io/channelz/willow-sports"
-#ch name="Astro" id="astro" url="https://odfinity.github.io/channelz/astr"
+#ch name="Willow Sports server 2" id="willow-2" url="https://binge-player.pages.dev/?url=https://amg01269-amg01269c1-willowtv-us-5479.playouts.now.amagi.tv/playlist/amg01269-willowtvfast-willowplus-willowtvus/playlist.m3u8"
